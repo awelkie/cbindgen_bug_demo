@@ -1,0 +1,10 @@
+[package]
+name = "cbindgen_bug"
+version = "0.1.0"
+authors = ["Allen Welkie"]
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+cbindgen = "0.7.1"
